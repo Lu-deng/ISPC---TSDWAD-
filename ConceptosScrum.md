@@ -1,3 +1,4 @@
 # ISPC---TSDWAD-
 # Cuáles son las ceremonias en SCRUM?
-Son 4
+# Cuáles son los artefactos en SCRUM?
+# Cuáles son los roles en SCRUM?
