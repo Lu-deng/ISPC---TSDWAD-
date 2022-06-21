@@ -1,4 +1,5 @@
 # ISPC---TSDWAD-
+
 # ¿Cuáles son las ceremonias en SCRUM?
 Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son reuniones que tienen lugar en las
 iteraciones o Sprints contemplados dentro de la metodología Scrum, y son una parte importante del progreso 
