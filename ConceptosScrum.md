@@ -7,7 +7,6 @@ de cualquier proyecto.
 Estas ceremonias brindan un marco en el que los equipos pueden trabajar de manera más estructurada para que
 así se alcancen los resultados esperados.
 
-## ¿Cuáles son las ceremonias de Scrum?
 Las ceremonias de Scrum, solo son 4 y siguen un orden en cascada. Cada ceremonia tiene también un tiempo
 limitado.
 
