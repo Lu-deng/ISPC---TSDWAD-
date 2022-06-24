@@ -1,5 +1,9 @@
 # ISPC---TSDWAD-
 
+# Origen de Scrum
+El origen de Scrum lo encontramos en el rugby, se usa este término para reiniciar el partido cuando los delanteros de los equipos se entrelazan con la cabeza hacia abajo para conseguir la posesión del balón. 
+
+Esa forma de colaboracion se ha aplicado en los negocios, comenzando su historia como tal en Japón en 1986. Dicho año Hirotaka Teakeuchi e Ikujiro Nonaka introdujeron el término en un artículo. Donde se hablaba de "Scrum" como una excelente forma de aumentar la velocidad y la flexibilidad en el desarollo de productos comerciales.                                                              
 # ¿Cuáles son las ceremonias en SCRUM?
 Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son reuniones que tienen lugar en las
 iteraciones o Sprints contemplados dentro de la metodología Scrum, y son una parte importante del progreso 
