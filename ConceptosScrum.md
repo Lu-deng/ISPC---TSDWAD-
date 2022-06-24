@@ -33,6 +33,7 @@ Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e 
 podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
 # Cuáles son los artefactos en SCRUM?
 # Cuáles son los roles en SCRUM?
+# Claves para subir y bajar archivos
 
 
 #prueba clonado rama Melani
