@@ -58,10 +58,46 @@ sesgos escondidos en el proceso de toma de decisiones; por último, hasta qué p
 La informática ha contribuido en el desarrollo de las tecnologías de la información haciendo posible las comunicaciones instantáneas, contribuyendo de esta manera en el desarrollo positivo de los medios de comunicación social. En consecuencia los informáticos han sido unos trabajadores claves en la investigación, desarrollo y producción de la tecnología militar. Desde la EI se podría concienciar a los informáticos sobre la eticidad de desarrollar modos "superinteligentes" para idear sufrimiento y destrucción humana y de alimentar mercados militares en países en desarrollo por parte de los que poseen tecnología." 
 
 
-## LA DEONTOLOGÍA – LA DEONTOLOGÍA INFORMÁTICA.
+## La Deontología Informática
 
-La Deontología informática hace referencia a la ciencia o tratado de los deberes y normas
-éticas, que conciernen a los profesionales que a diario están en contacto con la tecnología y
-los medios masivos de comunicación como internet.
+La Deontología informática hace referencia a la ciencia o tratado de los deberes y normas éticas, que conciernen a los profesionales que a diario están en contacto con la tecnología y los medios masivos de comunicación como internet.
+Por tanto trata, de la moral o ética profesional en el manejo de la información.
+
+
+## Los códigos éticos
+
+"Los códigos de ética, tal como se conocen en el mundo de las empresas, son sistemas de reglas establecidos con el propósito general de guiar el comportamiento de los integrantes de la organización y de aquellos con los cuales ésta actúa habitualmente.
+
+### Los diez mandamientos de la ética informática. 
+
+1. No usarás una computadora para dañar a otros. 
+2. No interferirás con el trabajo ajeno. 
+3. No indagarás en los archivos ajenos. 
+4. No utilizarás una computadora para robar. 
+5. No utilizarás la informática para realizar fraudes. 
+6. No copiarás o utilizarás software que no hayas comprado. 
+7. No utilizarás los recursos informáticos ajenos sin la debida autorización. 
+8. No te apropiarás de los derechos intelectuales de otros. 
+9. Deberás evaluar las consecuencias sociales de cualquier código que desarrolles. 
+10. Siempre utilizarás las computadoras de manera de respetar los derechos de los demás.
+
+
+## La ética en internet (Ciberespacio)
+
+Como sucede con otros medios de comunicación, la persona y la comunidad de personas son el centro de la valoración ética de Internet. Con respecto al mensaje comunicado, al proceso de comunicación y a las cuestiones estructurales y sistemáticas de la comunicación.
+La cuestión ética consiste en saber si esto está contribuyendo al auténtico desarrollo humano y ayudando a las personas y a los pueblos a ser fieles a su destino trascendente.  
+
+Internet tiene un conjunto de características impresionantes como lo describimos a
+continuación: 
+- Instantáneo. 
+- Inmediato. 
+- Mundial. 
+- Descentralizado. 
+- Interactivo. 
+
+### Los problemas éticos más significativos en Internet.
+
+
+
 
 
