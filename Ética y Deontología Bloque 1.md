@@ -97,7 +97,14 @@ continuación:
 
 ### Los problemas éticos más significativos en Internet.
 
+- La privacidad: no tanto la posibilidad (real) de fallos en los sistemas de correo que provoquen mensajes que van a lugares equivocados, si no más bien la intromisión intencional. Esta intromisión puede ser desde la del compañero del trabajo que lee nuestro trabajo hasta el sistemático intervencionismo estatal. 
+- La Identidad: es posible esconder la verdadera identidad a la hora de intervenir en una conversación. 
+- La Inversa: la capacidad de manipulación se traslada de los mecanismos habituales a la sociedad (como la posición social económica) a las habilidades de aquellos que manejan mas el medio o que pueden intervenir de manera subrepticia en las comunicaciones ajenas.
 
 
+### La Sociedad de la Información
+
+La Sociedad de la Información es resultado, de los procesos que podríamos llamar de informatización que se producen en los Estados Nacionales, por medio de los cuales se hace posible que actores de cada vez más amplios sectores sociales tengan acceso al uso de las TICs (tecnologías de información y comunicaciones) para su participación en la vida social. Pero en los países de América Latina y el Caribe los que forman parte de la Sociedad de la Información son minoritarios por lo que afirmamos que las sociedades latinoamericanas no
+son sociedades de la información.
 
 
