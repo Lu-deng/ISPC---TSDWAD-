@@ -37,8 +37,29 @@ Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e 
 podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
 # Cuáles son los artefactos en SCRUM?
 # Cuáles son los roles en SCRUM?
-# Claves para subir y bajar archivos
 
+# Claves para subir y bajar archivos
+El orden de procedimiento para evitar la perdida de info es la siguiente:
+1. Clonamos el repositorio remoto, creamos una carpeta y hacemos click derecho > "git bash here"
+2. Vamos a github, nos dirigimos a code y copiamos el enlace
+3. En git bash escribimos "git clone (pegar enlace)"
+4. Creamos nuestra rama mediante "git branch (nombre de la rama)"
+5. Nos movemos a esta mediante "git checkout (nombre de la rama)"
+6. Una vez hecho nuestros aportes o agregado un archivo usamos "git add" para subir dicho archivo.
+7. Realizamos una captura de dichos cambios mediante "git commit -m (dejamos un mensaje)"
+8. Antes de subir definitivamente los cambios, descargamos los ultimos cambios en el repo mediante "git pull (origin main o rama personal)" y "git merge"
+9. Una vez bajado los ultimos cambios subimos los cambios al repositorio remoto mediante "git push (origin main o rama personal)"
+
+## CLaves Principales
+
+### git add 
+Se usa para agregar un archivo que previamente debemos colocar en la carpeta del directorio local. Puedes agregar todos los archivos mediante "git add ." o subir algun archivo especifico mediante "git add (nombre del archivo)"
+
+### git push
+Una vez agregado el archivo o el cambio, usamos "git commit" para subir los cambios al repositorio local  y a continuacion git push origin (rama) para subir los cambios al servidor.
+
+### git pull.
+Se usa para recuperar los ultimos archivos o cambios de un repositorio remoto
 
 # Git
 
