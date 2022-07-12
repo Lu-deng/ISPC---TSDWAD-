@@ -63,6 +63,21 @@ Se usa para recuperar los ultimos archivos o cambios de un repositorio remoto
 
 # Git
 
+## Glosario GIT
+
+*repository/repositorio: contiene todos los archivos de un proyecto (incluyendo la documentación), y almacena el histórico de modificaciones de cada archivo.
+*commit/confirmación de una modificación individual en un archivo
+*push/enviar cambios confirmados a un repositorio remoto
+*pull/traer los cambios del servidor remoto y combinarlos con tu copia local.
+*issue/sugerencias de mejora, tareas o cuestiones relacionadas con el repositorio o el proyecto.
+*pull request/cambios propuestos para un repositorio que un usuario ha enviado, y que pueden ser aceptados o rechazados por los colaboradores del repositorio.
+*branch/rama, es una versión paralela de un repositorio.
+*merge/combinar
+*remote/La versión remota es una versión de algo que está alojada en un servidor
+*local/La versión local es la copia que tienes del repositorio en tu ordenador
+*clone/la copia de un repositorio que se aloja en tu ordenador
+*fork/copia personal de un repositorio de otro usuario que se aloja en tu cuenta.
+
 ## Ventajas de usar git
 
 ### Git ofrece varias ventajas frente a otros sistemas tradicionales:
