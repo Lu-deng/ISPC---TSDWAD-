@@ -65,6 +65,7 @@ Se usa para recuperar los ultimos archivos o cambios de un repositorio remoto
 
 ## Glosario GIT
 
+### 
 *repository/repositorio: contiene todos los archivos de un proyecto (incluyendo la documentación), y almacena el histórico de modificaciones de cada archivo.
 *commit/confirmación de una modificación individual en un archivo
 *push/enviar cambios confirmados a un repositorio remoto
@@ -100,7 +101,8 @@ Se usa para recuperar los ultimos archivos o cambios de un repositorio remoto
 
 
 ## DEFINICIÓN ISSUE
-
+### 
 Un issue en GitHub es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo.
 Una unidad de trabajo o tarea, se crea completando con un título (obligatorio) y una descripción. Si la persona es miembro del equipo, opcionalmente puede asignar una serie de metadatos: etiquetas (labels), hitos (milestone), proyecto al que pertenece o responsables encargados de cerrar la incidencia.
 Una vez creado, se asignará un número.
+
