@@ -33,3 +33,29 @@
 ·         Aplicar la toma de decisiones.
 
 ·         Conocer las ventajas y aplicar la dinámica de grupos.
+
+## 2) Los contenidos mínimos son los siguientes:
+
+•             Comunicación asertiva.
+
+•             Herramientas para la búsqueda de trabajo en relación de dependencia: confección de Curriculum vitae, presentación a entrevistas, técnicas de oralidad.
+
+•             El trabajo como profesional independiente.
+
+•             Adaptabilidad y flexibilidad.
+
+•             Proactividad e iniciativa.
+
+•             Introducción a la gestión de proyectos.
+
+•             Trabajo en equipos interdisciplinarios.
+
+•             Empatía. Creatividad. Liderazgo. Colaboración.
+
+•             Resolución de problemas.
+
+•             Toma de decisiones.
+
+•             Dinámica de grupos.
+
+
