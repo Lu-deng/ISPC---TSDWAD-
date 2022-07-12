@@ -97,3 +97,10 @@ Se usa para recuperar los ultimos archivos o cambios de un repositorio remoto
 7. Empezar a trabajar desde otro entorno es tan fácil como "clonar" el proyecto a tu nuevo entorno, trabajar sobre los archivos que se quieran, y subir los cambios al "master" o a una "branch".
 
 8. Sistema de etiquetas, para etiquetar las distintas versiones del proyecto. Esto es un marcador a una versión específica del proyecto, sólo que en lugar de tener distintos backups de versiones anteriores, apuntamos a distintas versiones dentro de la misma base de código..
+
+
+## DEFINICIÓN ISSUE
+
+Un issue en GitHub es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo.
+Una unidad de trabajo o tarea, se crea completando con un título (obligatorio) y una descripción. Si la persona es miembro del equipo, opcionalmente puede asignar una serie de metadatos: etiquetas (labels), hitos (milestone), proyecto al que pertenece o responsables encargados de cerrar la incidencia.
+Una vez creado, se asignará un número.
