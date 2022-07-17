@@ -50,6 +50,7 @@ Scrum Team
 
 La suma de todos los roles es lo que llamamos Equipo Scrum.
 El Scrum Team es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. Su trabajo se realiza a base de sprints, que son acciones concretas por realizar en periodos de tiempo pequeño, de una a cuatro semanas aproximadamente, con preferencia por los intervalos más cortos posibles. En cada uno de esos Sprints el equipo construye y entrega un incremento o una mejora del producto.
+
 Product Owner
 
 El Product Owner es el encargado de optimizar y maximizar el valor del producto resultante del Scrum Team., siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog. Que esto incluye:
