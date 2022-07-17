@@ -36,6 +36,12 @@ desarrollo del producto.
 Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e identificar elementos que 
 podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
 # Cuáles son los artefactos en SCRUM?
+3 HERRAMIENTAS CLAVES
+Son las herramientas  o elementos que se utilizan para el registro de la informacion necesaria,  para garantizar la transparencia del proceso.
+1. Product backlog: Plan o p ila del producto. Requisitos globales del producto a desarrollar.
+2. Sprint backlog:Plan o Pila del sprint. Es la parte del product backlog a realizar en un sprint.
+3. Incremento: es el resultado que se obtiene de cada sprint.
+
 # Cuáles son los roles en SCRUM?
 
 # Claves para subir y bajar archivos
