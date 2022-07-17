@@ -45,7 +45,9 @@ Son las herramientas o elementos que se utilizan para el registro de la informac
 
 # Cuáles son los roles en SCRUM?
 Asignar roles del equipo Scrum es de suma importancia, ya que define las tareas concretas para cada integrante. De esta forma, se tendrá mayor organización y eficiencia, alcanzando los resultados esperados para un equipo de alto rendimiento.
+
 Scrum Team 
+
 La suma de todos los roles es lo que llamamos Equipo Scrum.
 El Scrum Team es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. Su trabajo se realiza a base de sprints, que son acciones concretas por realizar en periodos de tiempo pequeño, de una a cuatro semanas aproximadamente, con preferencia por los intervalos más cortos posibles. En cada uno de esos Sprints el equipo construye y entrega un incremento o una mejora del producto.
 Product Owner
