@@ -44,6 +44,42 @@ Son las herramientas o elementos que se utilizan para el registro de la informac
 3. Incremento: es el resultado que se obtiene de cada sprint.
 
 # Cuáles son los roles en SCRUM?
+Asignar roles del equipo Scrum es de suma importancia, ya que define las tareas concretas para cada integrante. De esta forma, se tendrá mayor organización y eficiencia, alcanzando los resultados esperados para un equipo de alto rendimiento.
+Scrum Team 
+La suma de todos los roles es lo que llamamos Equipo Scrum.
+El Scrum Team es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. Su trabajo se realiza a base de sprints, que son acciones concretas por realizar en periodos de tiempo pequeño, de una a cuatro semanas aproximadamente, con preferencia por los intervalos más cortos posibles. En cada uno de esos Sprints el equipo construye y entrega un incremento o una mejora del producto.
+Product Owner
+El Product Owner es el encargado de optimizar y maximizar el valor del producto resultante del Scrum Team., siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog. Que esto incluye:
+•	Desarrollar y comunicar el objetivo del producto. 
+•	Crear y comunicar claramente los elementos del Product Backlog. 
+•	Ordenar los elementos de la lista de productos.
+•	Asegurarse de que el Product Backlog sea transparente, visible y se entienda. 
+Para que los Product Owners tengan éxito, toda la organización debe respetar de sus decisiones.
+Cabe recalcar que el Product Owner es una sola persona, no un comité, y las elecciones finales en relación con los productos le competen solamente a él. Sin embargo, este profesional puede apoyarse en otros roles de Scrum para aclarar detalles y definir criterios que lo ayuden a tomar las mejores decisiones. 
+Scrum Master
+Según la Guía de Scrum, el Scrum Master es el responsable de lograr la efectividad de todos los roles del equipo Scrum, apoyando a cada uno de sus integrantes en la mejora de sus prácticas. Además, se le reconoce como un líder que se encuentra a disposición de los demás. 
+Para llevar a cabo su objetivo dentro de este método, el Scrum Master debe asegurarse de cumplir las siguientes tareas:  
+
+•	Guiar a los miembros del equipo en ser autogestionados y multifuncionales.  
+•	Ayuda al Scrum Team a enfocarse en crear Icrements de alto valor que cumplan con la definición de Terminado.
+•	Procurar la eliminación de impedimentos en el progreso del Scrum Team; y, 
+•	Asegurar que todos los eventos de Scrum se lleven a cabo de forma productiva, positiva y dentro de los límites de tiempo recomendados.
+Habilidades del Scrum Master
+Por otro lado, un Scrum Master debe contar con ciertas características para realizar de forma eficiente todas las tareas que se le asignan al ser uno de los roles de Scrum más importantes. 
+•	Trabajo en equipo.
+•	Resolución de problemas. 
+•	Liderazgo e innovación.
+•	Organización y planeamiento. 
+•	Delegación tareas. 
+•	Adaptación al cambio.
+•	Comunicación interpersonal. 
+Developers
+Ellos son los profesionales encargados de entregar los productos de acuerdo con los estándares establecidos.
+Habilidades especificas:
+•	Crear un Sprint, el Sprint Backlog;
+•	Inculcar calidad al adherirse a una definición de Terminado;
+•	Adaptar su plan cada día hacia el objetivo del Sprint; y,
+•	 Responsabilizarse mutuamente como profesionales.
 
 # Claves para subir y bajar archivos
 El orden de procedimiento para evitar la perdida de info es la siguiente:
